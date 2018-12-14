@@ -1,0 +1,34 @@
+.second-part{
+	padding-top: 100px;
+}
+
+
+.social-icon{
+list-style: none;
+margin: 10px 0;
+
+}
+
+.social-all{
+list-style: none;
+display: inline-block;
+background: black;
+color: white;
+padding: 15px;
+border-radius: 50%;
+line-height: 10px;
+text-align: center;
+margin-right: 15px;
+}
+
+.menu-items{
+list-style: none;
+}
+.menu-icon {
+display: inline-block;
+text-align: center;
+padding: 10px;
+}
+.menu-icon i{
+	text-align: center;
+}
